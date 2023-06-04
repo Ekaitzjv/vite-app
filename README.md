@@ -1,13 +1,12 @@
 <h1>Nombre del Repositorio</h1>
-Descripción
-Este repositorio es una plantilla inicial para crear proyectos con Vite.
+<h3>Descripción</h3>
+<p>Este repositorio es una plantilla inicial para crear proyectos con Vite.</p>
 
-Vite es un compilador de desarrollo rápido y liviano para aplicaciones web modernas. Proporciona una experiencia de desarrollo instantáneo al aprovechar la capacidad de los navegadores modernos para la importación de módulos ES y la compilación en tiempo real.
+<p>Vite es un compilador de desarrollo rápido y liviano para aplicaciones web modernas. Proporciona una experiencia de desarrollo instantáneo al aprovechar la capacidad de los navegadores modernos para la importación de módulos ES y la compilación en tiempo real.</p>
+<p>Este repositorio contiene una configuración básica para iniciar un proyecto con Vite y comenzar a desarrollar de inmediato.</p>
 
-Este repositorio contiene una configuración básica para iniciar un proyecto con Vite y comenzar a desarrollar de inmediato.
-
-Instalación
-Para crear un nuevo proyecto Vite, sigue estos pasos:
+<h3>Instalación</h3>
+<p>Para crear un nuevo proyecto Vite, sigue estos pasos:</p>
 
 Abre una terminal en la carpeta donde deseas crear el proyecto.
 Ejecuta el siguiente comando:
