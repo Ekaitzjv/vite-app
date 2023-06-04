@@ -1,4 +1,4 @@
-<h1>Nombre del Repositorio</h1>
+<h1>Vite App</h1>
 <h3>Descripción</h3>
 <p>Este repositorio es una plantilla inicial para crear proyectos con Vite.</p>
 
