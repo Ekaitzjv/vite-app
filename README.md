@@ -1,5 +1,5 @@
-// inicia el servidor de desarrollo
+Inicia el servidor de desarrollo: 
 npm run dev
 
-//compila para producción
+Compila para producción:
 npm run build
