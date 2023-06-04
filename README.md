@@ -11,7 +11,7 @@
   <li>Abre una terminal en la carpeta donde deseas crear el proyecto.</li>
   <li>Ejecuta el siguiente comando:</li>
   <code>npm create vite</code>
-<ol>
+</ol>
 
 
 Sigue las instrucciones en la terminal para configurar el proyecto (elige las opciones y dependencias que desees).
